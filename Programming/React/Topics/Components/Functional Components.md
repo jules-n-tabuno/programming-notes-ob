@@ -1,3 +1,5 @@
+#react
+
  ==Functional components are the fundamental building blocks of React applications. Unlike class components, functional components are simpler and allow the use of hooks for managing state and lifecycle methods. Each component is essentially a JavaScript function that returns JSX, making applications modular and maintainable.==
 
 

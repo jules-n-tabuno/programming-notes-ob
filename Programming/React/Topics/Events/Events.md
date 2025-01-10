@@ -1,3 +1,5 @@
+#react 
+
 ==Handling events in React is done using camelCase syntax. The most commonly used events include onClick, onChange, and onBlur, which allow developers to execute code in response to user interactions. Effective event handling is key to creating responsive applications.==
 
 ### 1. [[onClick]]
