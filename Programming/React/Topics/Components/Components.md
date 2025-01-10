@@ -1,3 +1,5 @@
+#react 
+
 ==**Components are the building blocks of React applications.** They are reusable pieces of UI that encapsulate specific functionality and can be composed to create complex user interfaces.==
 
 **Key characteristics of React components:**
@@ -11,7 +13,7 @@
 
 **Types of Components:**
 
-1. **[[Functional Components]]s:**
+1. **[[Functional Components]]:**
     
     - Simpler and more concise to write.
     - Use hooks like `useState` and `useEffect` to manage state and side effects.

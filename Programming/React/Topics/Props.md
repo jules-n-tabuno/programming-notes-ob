@@ -1,3 +1,5 @@
+#react 
+
 ==Props, short for properties, allow data to be passed from one component to another in React. They enable a parent component to pass information to its child components, which is crucial for dynamic application behavior. Understanding how to manipulate and use props is essential for rendering interactive UIs.==
 
 **Example:**

@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ea5637c0f6baeabe",
+        "id": "2663ad0d6f185f6a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a251414bb89c4bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/React/Topics/Components/Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Components"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b85a337a6d98edb9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54ce775b71f5b75f",
+            "id": "21fa12327b2c23d4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -174,23 +154,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54ce775b71f5b75f",
+  "active": "21fa12327b2c23d4",
   "lastOpenFiles": [
-    "Programming/React/Topics/Components/Components.md",
-    "Programming/React/Topics/Components/Functional Components.md",
-    "Programming/React/Topics/Events/Events.md",
-    "Programming/React/Topics/Events/onBlur.md",
-    "Programming/React/Topics/Events/onChange.md",
-    "Programming/React/Topics/Events/onClick.md",
     "Programming/React/The most important REACT concepts to learn first (as a beginner).md",
     "Programming/React/Topics/Props.md",
     "Programming/React/Topics/Hooks/useState.md",
     "Programming/React/Topics/Hooks/useRef.md",
-    "Programming/React/Topics/Hooks/Hooks.md",
     "Programming/React/Topics/Hooks/useEffect.md",
+    "Programming/React/Topics/Hooks/Hooks.md",
+    "Programming/React/Topics/Events/onClick.md",
+    "Programming/React/Topics/Events/onChange.md",
+    "Programming/React/Topics/Events/onBlur.md",
+    "Programming/React/Topics/Events/Events.md",
+    "Programming/React/Topics/Components/Functional Components.md",
+    "Programming/React/Topics/Components/Components.md",
     "Programming/React/Topics/Components",
     "Programming/React/Topics/Hooks",
     "Programming/React/Topics/Events",

@@ -1,3 +1,5 @@
+#react
+
 ==In React, the `onClick` event handler is used to execute a function when an element is clicked. You assign it to an element, like a button, and pass a function that will run when the click occurs. This function can be defined inline or separately.==
 
 **Example:**

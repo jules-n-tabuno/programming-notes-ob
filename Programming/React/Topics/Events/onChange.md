@@ -1,3 +1,5 @@
+#react
+
 ==In React, the `onChange` event handler is a crucial tool for managing user input in form elements. It triggers whenever the value of an input element changes, allowing you to capture and update state or perform other actions based on the user's input.==
 
 `onChange = event handler used primarily with form elements. Example: <input>, <textarea>, <select>, <radio>. Triggers a function every time the value of the input changes.`
